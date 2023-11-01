@@ -1,0 +1,181 @@
+Airline,Departure,Arrival,Duration,Price,No. Transit,Layover Time,Layover Place Code,Layover Place,website
+Norwegian,6:00 am , 9:00 am,4h 00m,$100,nonstop,0h,-,-,Kayak
+Norwegian,6:00 am , 9:00 am,4h 00m,$94,nonstop,0h,-,-,Kayak
+Ryanair,11:20 pm ," 10:50 pm
++1",25h 30m,$65,1 stop,20h 35m,WMI-WAW,Airport change WMI-WAW,Kayak
+Finnair,7:45 am , 10:50 am,4h 05m,$324,nonstop,0h,-,-,Kayak
+Scandinavian Airlines,7:00 am , 1:15 pm,7h 15m,$114,1 stop,2h 35m,CPH,Kastrup Copenhagen,Kayak
+"Finnair, Ryanair",5:05 pm , 10:35 pm,6h 30m,$150,1 stop,1h 35m,BCN,Barcelona-El Prat,Kayak
+Lufthansa,1:40 pm , 6:20 pm,5h 40m,$298,1 stop,1h 00m,FRA,Frankfurt am Main,Kayak
+"Lufthansa, Discover Airlines",1:40 pm , 6:20 pm,5h 40m,$309,1 stop,,FRA,Frankfurt am Main,Kayak
+"Finnair, Ryanair",7:35 am , 1:15 pm,6h 40m,$207,1 stop,1h 50m,WAW,Warsaw Frederic Chopin,Kayak
+"Finnair, easyJet",4:10 pm , 10:50 pm,7h 40m,$140,1 stop,2h 50m,MXP,Milan Malpensa,Kayak
+"Finnair, Ryanair",5:05 pm , 10:00 pm,5h 55m,$211,1 stop,1h 00m,BCN,Barcelona-El Prat,Kayak
+"Finnair, Norwegian",12:00 pm , 6:30 pm,7h 30m,$173,1 stop,2h 35m,OSL,Oslo Gardermoen,Kayak
+"Finnair, Air Europa",5:05 pm , 10:45 pm,6h 40m,$175,1 stop,1h 55m,BCN,Barcelona-El Prat,Kayak
+"Finnair, Ryanair",5:05 pm , 11:40 pm,7h 35m,$150,1 stop,2h 40m,BCN,Barcelona-El Prat,Kayak
+"Ryanair, easyJet",10:50 pm ," 10:25 am
++1",13h 35m,$87,1 stop,8h 15m,STN-LTN,Airport change STN-LTN,Kayak
+"Finnair, Vueling",5:05 pm , 10:20 pm,6h 15m,$218,1 stop,1h 25m,BCN,Barcelona-El Prat,Kayak
+"Ryanair, Jet2",10:50 pm ," 9:30 am
++1",12h 40m,$92,1 stop,7h 05m,STN,London Stansted,Kayak
+"Finnair, SWISS",4:10 pm , 8:50 pm,5h 40m,$279,1 stop,1h 00m,GVA,Geneva Geneve-Cointrin,Kayak
+"Finnair, British Airways",8:00 am , 2:00 pm,7h 00m,$278,1 stop,1h 30m,LHR,London Heathrow,Kayak
+"Finnair, Ryanair",5:35 pm , 11:30 pm,6h 55m,$230,1 stop,2h 10m,BER,Berlin Brandenburg,Kayak
+"airBaltic, Norwegian",5:25 am , 12:05 pm,7h 40m,$137,2 stops,"0h 35m, 0h 55m","RIX, OSL","Riga Intl, Oslo Gardermoen",Kayak
+"Ryanair, easyJet",10:50 pm ," 9:25 am
++1",12h 35m,$96,1 stop,7h 15m,STN-LTN,Airport change STN-LTN,Kayak
+"Finnair, Wizz Air",11:35 am , 7:05 pm,8h 30m,$169,1 stop,3h 30m,WAW,Warsaw Frederic Chopin,Kayak
+British Airways,8:00 am , 2:00 pm,7h 00m,$299,1 stop,1h 30m,LHR,London Heathrow,Kayak
+"Finnair, Eurowings",7:55 am , 1:00 pm,6h 05m,$294,1 stop,1h 20m,ZRH,Zurich,Kayak
+"Finnair, Ryanair",12:00 pm , 10:05 pm,11h 05m,$139,1 stop,6h 20m,OSL-TRF,Airport change OSL-TRF,Kayak
+"Ryanair, British Airways",10:50 pm ," 8:55 am
++1",12h 05m,$129,1 stop,6h 40m,STN-LHR,Airport change STN-LHR,Kayak
+"Norwegian, Air Europa",12:25 pm , 6:00 pm,6h 35m,$283,1 stop,1h 20m,ALC,Alicante,Kayak
+"Finnair, Transavia",8:10 am , 3:45 pm,8h 35m,$213,1 stop,3h 35m,AMS,Amsterdam Schiphol,Kayak
+"Finnair, Iberia",4:40 pm , 11:59 pm,8h 19m,$213,1 stop,2h 35m,MAD,Madrid Barajas,Kayak
+KLM,7:00 am , 4:05 pm,10h 05m,$218,1 stop,5h 00m,AMS,Amsterdam Schiphol,Kayak
+"Norwegian, Ryanair",6:15 am , 6:35 pm,13h 20m,$114,1 stop,8h 25m,PSA,Pisa Gal Galilei,Kayak
+"Finnair, Ryanair",9:55 am , 4:50 pm,7h 55m,$259,1 stop,3h 00m,BUD,Budapest Ferenc Liszt Intl,Kayak
+"Finnair, Ryanair",12:05 pm , 8:40 pm,9h 35m,$198,1 stop,4h 55m,CPH,Kastrup Copenhagen,Kayak
+"Finnair, easyJet",8:00 am , 2:45 pm,7h 45m,$254,1 stop,2h 55m,MXP,Milan Malpensa,Kayak
+British Airways,8:00 am , 4:20 pm,9h 20m,$275,1 stop,3h 45m,LHR,London Heathrow,Kayak
+"airBaltic, Condor",5:25 am , 12:40 pm,8h 15m,$204,2 stops,"1h 25m, 1h 20m","RIX, FRA","Riga Intl, Frankfurt am Main",Kayak
+"Finnair, Norwegian",7:25 am , 6:30 pm,12h 05m,$161,1 stop,7h 05m,OSL,Oslo Gardermoen,Kayak
+"Finnair, Wizz Air",7:35 am , 7:05 pm,12h 30m,$157,1 stop,7h 30m,WAW,Warsaw Frederic Chopin,Kayak
+KLM,7:00 am , 3:45 pm,9h 45m,$279,1 stop,4h 45m,AMS,Amsterdam Schiphol,Kayak
+"Finnair, Norwegian",7:10 am , 5:50 pm,11h 40m,$181,1 stop,5h 45m,BGO,Bergen Flesland,Kayak
+"airBaltic, Ryanair",5:25 am , 4:25 pm,12h 00m,$132,2 stops,"0h 50m, 4h 50m","RIX, LGW-STN","Riga Intl, Airport change LGW-STN",Kayak
+"Finnair, British Airways",8:00 am , 4:20 pm,9h 20m,$245,1 stop,3h 45m,LHR,London Heathrow,Kayak
+British Airways,8:00 am , 5:45 pm,10h 45m,$262,1 stop,5h 20m,LHR,London Heathrow,Kayak
+"Finnair, easyJet",8:00 am , 5:35 pm,10h 35m,$211,1 stop,5h 00m,LHR-LGW,Airport change LHR-LGW,Kayak
+Multiple airlines,2:15 pm , 9:50 pm,8h 35m,$258,2 stops,"1h 05m, 1h 25m","TLL, LGW","Tallinn Ulemiste, London Gatwick",Kayak
+"Finnair, British Airways",8:00 am , 5:45 pm,10h 45m,$231,1 stop,5h 20m,LHR,London Heathrow,Kayak
+"Finnair, easyJet",8:10 am , 4:30 pm,9h 20m,$231,2 stops,"2h 10m, 1h 20m","AMS, NCE","Amsterdam Schiphol, Nice Côte d'Azur",Kayak
+"Finnair, easyJet",8:10 am , 4:30 pm,9h 20m,$235,2 stops,"1h 05m, 2h 25m","AMS, NCE","Amsterdam Schiphol, Nice Côte d'Azur",Kayak
+"airBaltic, Wizz Air",9:00 am , 7:05 pm,11h 05m,$215,2 stops,"4h 05m, 1h 20m","RIX, WAW","Riga Intl, Warsaw Frederic Chopin",Kayak
+"Finnair, Norwegian",7:25 am , 5:50 pm,11h 25m,$205,2 stops,"1h 00m, 4h 35m","OSL, BGO","Oslo Gardermoen, Bergen Flesland",Kayak
+"Ryanair, easyJet",10:50 pm ," 11:15 am
++1",14h 25m,$103,1 stop,9h 10m,STN-LGW,Airport change STN-LGW,Kayak
+Lufthansa,12:50 pm , 8:15 pm,8h 25m,$334,1 stop,3h 40m,MUC,Munich Franz Josef Strauss,Kayak
+"Finnair, Vueling",8:10 am , 6:05 pm,10h 55m,$228,2 stops,"3h 35m, 1h 30m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Kayak
+airBaltic,9:20 pm ," 9:50 am
++1",14h 30m,$144,1 stop,9h 40m,RIX,Riga Intl,Kayak
+"Scandinavian Airlines, Norwegian",7:00 am , 6:30 pm,12h 30m,$186,2 stops,"4h 05m, 2h 05m","CPH, OSL","Kastrup Copenhagen, Oslo Gardermoen",Kayak
+"Finnair, Eurowings",11:25 am , 6:05 pm,7h 40m,$351,1 stop,3h 00m,BER,Berlin Brandenburg,Kayak
+"Scandinavian Airlines, Wizz Air",7:00 am , 7:05 pm,13h 05m,$173,2 stops,"4h 05m, 2h 40m","CPH, WAW","Kastrup Copenhagen, Warsaw Frederic Chopin",Kayak
+"Ryanair, Austrian Airlines",9:05 pm ," 8:50 am
++1",13h 45m,$144,1 stop,9h 00m,VIE,Vienna Intl,Kayak
+Austrian Airlines,7:00 am , 5:05 pm,11h 05m,$290,2 stops,"2h 10m, 3h 10m","CPH, VIE","Kastrup Copenhagen, Vienna Intl",Kayak
+"Norwegian, Vueling",12:25 pm , 9:55 pm,10h 30m,$274,1 stop,5h 05m,ALC,Alicante,Kayak
+Scandinavian Airlines,11:25 am , 6:45 pm,8h 20m,$390,1 stop,3h 20m,ARN,Stockholm Arlanda,Kayak
+"airBaltic, Norwegian",5:25 am , 6:30 pm,14h 05m,$136,2 stops,"0h 35m, 7h 20m","RIX, OSL","Riga Intl, Oslo Gardermoen",Kayak
+"Finnair, Ryanair",7:25 am , 10:05 pm,15h 40m,$127,1 stop,10h 50m,OSL-TRF,Airport change OSL-TRF,Kayak
+"airBaltic, easyJet",5:25 am , 5:35 pm,13h 10m,$174,2 stops,"0h 50m, 6h 05m","RIX, LGW","Riga Intl, London Gatwick",Kayak
+"airBaltic, Scandinavian Airlines",5:25 am , 1:15 pm,8h 50m,$281,2 stops,"0h 40m, 2h 40m","RIX, CPH","Riga Intl, Kastrup Copenhagen",Kayak
+KLM,1:55 pm , 10:45 pm,9h 50m,$329,2 stops,"1h 20m, 3h 10m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Kayak
+Lufthansa,6:10 am , 1:00 pm,7h 50m,$405,1 stop,3h 05m,MUC,Munich Franz Josef Strauss,Kayak
+"Ryanair, easyJet",10:50 pm ," 12:35 pm
++1",15h 45m,$120,1 stop,10h 35m,STN-LGW,Airport change STN-LGW,Kayak
+"Finnair, Ryanair",7:10 am , 10:05 pm,15h 55m,$144,2 stops,"1h 55m, 7h 20m","BGO, TRF","Bergen Flesland, Oslo Sandefjord",Kayak
+"Lufthansa, Eurowings",7:40 pm ," 4:00 am
++1",10h 20m,$325,2 stops,"1h 10m, 4h 05m","MUC, FMO","Munich Franz Josef Strauss, Muenster",Kayak
+"Ryanair, Vueling",10:50 pm ," 1:55 pm
++1",17h 05m,$114,2 stops,"8h 45m, 2h 15m","STN, BCN","London Stansted, Barcelona-El Prat",Kayak
+Lufthansa,6:40 am , 6:20 pm,12h 40m,$309,1 stop,8h 00m,FRA,Frankfurt am Main,Kayak
+British Airways,8:00 am , 9:20 pm,14h 20m,$290,1 stop,8h 15m,LHR-LGW,Airport change LHR-LGW,Kayak
+"airBaltic, Ryanair",5:25 am , 10:05 pm,17h 40m,$103,2 stops,"0h 35m, 11h 05m","RIX, OSL-TRF","Riga Intl, Airport change OSL-TRF",Kayak
+Lufthansa,1:40 pm , 8:15 pm,7h 35m,$469,2 stops,"1h 00m, 0h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Kayak
+"Lufthansa, Discover Airlines",6:40 am , 6:20 pm,12h 40m,$309,1 stop,NAN,"FRA, MUC",Frankfurt am Main,Kayak
+Ryanair,11:20 pm ," 2:25 pm
++1",17h 05m,$145,2 stops,"6h 55m, 3h 10m","WMI, MAD","Warsaw Modlin, Madrid Barajas",Kayak
+KLM,1:55 pm , 11:05 pm,10h 10m,$408,2 stops,"1h 30m, 2h 15m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$374,2 stops,"3h 30m, 1h 30m","FRA, VIE","Frankfurt am Main, Vienna Intl",Kayak
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$374,2 stops,"1h 05m, 3h 55m","FRA, VIE","Frankfurt am Main, Vienna Intl",Kayak
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$374,2 stops,"1h 55m, 3h 00m","FRA, VIE","Frankfurt am Main, Vienna Intl",Kayak
+"Finnair, Vueling",5:55 pm ," 8:05 am
++1",16h 10m,$212,2 stops,"1h 20m, 8h 45m","CPH, ALC","Kastrup Copenhagen, Alicante",Kayak
+Multiple airlines,10:10 pm ," 9:25 am
++1",13h 15m,$280,2 stops,"4h 50m, 1h 20m","AGP, BCN","Malaga, Barcelona-El Prat",Kayak
+Lufthansa,6:10 am , 8:15 pm,15h 05m,$302,1 stop,10h 20m,MUC,Munich Franz Josef Strauss,Kayak
+Austrian Airlines,5:30 pm ," 8:50 am
++1",17h 20m,$226,2 stops,"2h 25m, 9h 15m","ARN, VIE","Stockholm Arlanda, Vienna Intl",Kayak
+"Lufthansa, Condor",7:40 pm ," 8:05 am
++1",14h 25m,$256,1 stop,9h 35m,MUC,Munich Franz Josef Strauss,Kayak
+Multiple airlines,5:55 pm ," 7:05 am
++1",15h 10m,$254,2 stops,"2h 55m, 6h 40m","CPH, BCN","Kastrup Copenhagen, Barcelona-El Prat",Kayak
+Lufthansa,11:25 am , 6:20 pm,7h 55m,$536,2 stops,"1h 30m, 0h 50m","ARN, FRA","Stockholm Arlanda, Frankfurt am Main",Kayak
+"Finnair, Ryanair",5:35 pm ," 8:05 am
++1",16h 30m,$222,2 stops,"2h 30m, 7h 00m","PRG, SVQ","Václav Havel Prague, Sevilla",Kayak
+"Finnair, British Airways",4:00 pm ," 8:55 am
++1",18h 55m,$208,1 stop,13h 25m,LHR,London Heathrow,Kayak
+Lufthansa,7:40 pm ," 10:55 am
++1",17h 15m,$234,1 stop,12h 30m,MUC,Munich Franz Josef Strauss,Kayak
+Austrian Airlines,7:00 am , 7:10 pm,13h 10m,$380,2 stops,"2h 10m, 5h 15m","CPH, VIE","Kastrup Copenhagen, Vienna Intl",Kayak
+Multiple airlines,11:20 pm ," 1:55 pm
++1",16h 35m,$194,3 stops,"7h 10m, 1h 00m, 1h 30m","opi, FCO, BCN","Airport change WMI-WAW, Rome Fiumicino, Barcelona-El Prat",Kayak
+"Finnair, Vueling",5:55 pm ," 8:05 am
++1",16h 10m,$246,2 stops,"2h 55m, 7h 45m","CPH, BCN","Kastrup Copenhagen, Barcelona-El Prat",Kayak
+"Ryanair, Iberia Express",11:20 pm ," 12:50 pm
++1",15h 30m,$241,2 stops,"6h 55m, 1h 35m","WMI, MAD","Warsaw Modlin, Madrid Barajas",Kayak
+"Ryanair, Lufthansa",11:20 pm ," 10:55 am
++1",13h 35m,$275,2 stops,"7h 00m, 1h 05m","WMI-WAW, MUC","Airport change WMI-WAW, Munich Franz Josef Strauss",Kayak
+"Ryanair, Iberia",10:50 pm ," 12:50 pm
++1",16h 00m,$232,2 stops,"7h 10m, 1h 55m","STN, MAD","London Stansted, Madrid Barajas",Kayak
+"Ryanair, Iberia",11:20 pm ," 12:50 pm
++1",15h 30m,$247,2 stops,"6h 55m, 1h 35m","WMI, MAD","Warsaw Modlin, Madrid Barajas",Kayak
+Air Europa,7:00 am , 6:25 pm,12h 25m,$419,2 stops,"0h 55m, 5h 00m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"4h 15m, 3h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Kayak
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"6h 15m, 1h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Kayak
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"2h 15m, 5h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Kayak
+Ryanair,10:50 pm ," 4:50 pm
++1",20h 00m,$118,2 stops,"10h 15m, 2h 25m","STN, AGP","London Stansted, Malaga",Kayak
+"Ryanair, easyJet",10:50 pm ," 1:25 pm
++1",16h 35m,$226,2 stops,"7h 30m, 1h 35m","STN, BER","London Stansted, Berlin Brandenburg",Kayak
+Multiple airlines,11:20 pm ," 1:15 pm
++1",15h 55m,$255,2 stops,"8h 30m, 1h 20m","WMI-WAW, DUS","Airport change WMI-WAW, Duesseldorf Intl",Kayak
+Lufthansa,11:25 am , 8:15 pm,9h 50m,$528,2 stops,"3h 25m, 0h 45m","ARN, MUC","Stockholm Arlanda, Munich Franz Josef Strauss",Kayak
+British Airways,4:00 pm ," 8:55 am
++1",18h 55m,$262,1 stop,13h 25m,LHR,London Heathrow,Kayak
+"Finnair, Iberia",4:40 pm ," 8:35 am
++1",17h 55m,$294,1 stop,12h 05m,MAD,Madrid Barajas,Kayak
+Lufthansa,11:15 am , 8:15 pm,10h 00m,$534,2 stops,"0h 55m, 3h 40m","CPH, MUC","Kastrup Copenhagen, Munich Franz Josef Strauss",Kayak
+"Finnair, Austrian Airlines",5:10 pm ," 8:50 am
++1",17h 40m,$251,1 stop,12h 55m,VIE,Vienna Intl,Kayak
+"Ryanair, Air Europa",10:50 pm ," 6:05 pm
++1",21h 15m,$122,2 stops,"7h 55m, 6h 50m","STN, ALC","London Stansted, Alicante",Kayak
+Lufthansa,6:40 am , 3:15 pm,9h 35m,$540,1 stop,4h 50m,FRA,Frankfurt am Main,Kayak
+KLM,7:00 am , 3:55 pm,9h 55m,$524,2 stops,"0h 55m, 2h 30m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Air France,6:20 am , 8:20 pm,15h 00m,$364,2 stops,"6h 25m, 2h 00m","CDG, MAD","Paris Charles de Gaulle, Madrid Barajas",Kayak
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$453,2 stops,"1h 15m, 6h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Kayak
+Air Europa,7:00 am , 8:20 pm,14h 20m,$419,2 stops,"0h 55m, 6h 55m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Air Europa,7:00 am , 8:20 pm,14h 20m,$419,2 stops,"2h 25m, 5h 20m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Air Europa,7:00 am , 3:55 pm,9h 55m,$558,2 stops,"0h 55m, 2h 30m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+Ryanair,11:20 pm ," 7:10 pm
++1",21h 50m,$115,2 stops,"12h 35m, 3h 35m","WMI, VIE","Warsaw Modlin, Vienna Intl",Kayak
+KLM,7:00 am , 4:15 pm,10h 15m,$523,2 stops,"1h 45m, 2h 55m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Kayak
+"Ryanair, SWISS",11:20 pm ," 1:40 pm
++1",16h 20m,$293,2 stops,"8h 35m, 2h 05m","WMI-WAW, ZRH","Airport change WMI-WAW, Zurich",Kayak
+KLM,7:00 am , 6:25 pm,12h 25m,$460,2 stops,"0h 55m, 5h 00m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Kayak
+"Finnair, Austrian Airlines",5:55 pm ," 8:50 am
++1",16h 55m,$294,2 stops,"1h 25m, 9h 45m","CPH, VIE","Kastrup Copenhagen, Vienna Intl",Kayak
+"Finnair, Austrian Airlines",4:50 pm ," 8:50 am
++1",18h 00m,$262,2 stops,"3h 05m, 9h 15m","ARN, VIE","Stockholm Arlanda, Vienna Intl",Kayak
+Lufthansa,6:40 am , 1:00 pm,7h 20m,$630,2 stops,"1h 00m, 0h 40m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Kayak
+"Finnair, SWISS",8:15 pm ," 12:00 pm
++1",17h 45m,$305,2 stops,"11h 10m, 0h 55m","ARN, ZRH","Stockholm Arlanda, Zurich",Kayak
+"Lufthansa, Discover Airlines",6:10 pm ," 9:15 am
++1",17h 05m,$359,1 stop,12h 20m,FRA,Frankfurt am Main,Kayak
+Lufthansa,7:00 am , 6:20 pm,12h 20m,$511,2 stops,"2h 05m, 5h 00m","CPH, FRA","Kastrup Copenhagen, Frankfurt am Main",Kayak
+Brussels Airlines,6:40 am , 4:30 pm,10h 50m,$529,2 stops,"3h 15m, 1h 50m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Kayak
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$412,2 stops,"5h 00m, 3h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Kayak
+Ryanair,9:05 pm ," 7:10 pm
++1",24h 05m,$86,1 stop,19h 15m,VIE,Vienna Intl,Kayak
+Lufthansa,6:10 pm ," 9:15 am
++1",17h 05m,$359,1 stop,12h 20m,FRA,Frankfurt am Main,Kayak
+Iberia,4:40 pm ," 8:35 am
++1",17h 55m,$362,1 stop,12h 05m,MAD,Madrid Barajas,Kayak
+Ryanair,10:50 pm ," 9:15 pm
++1",24h 25m,$88,1 stop,19h 00m,STN,London Stansted,Kayak
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$529,2 stops,"0h 45m, 4h 50m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Kayak
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$529,2 stops,"1h 25m, 4h 25m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Kayak

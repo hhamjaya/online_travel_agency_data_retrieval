@@ -1,0 +1,171 @@
+Airline,Departure,Arrival,Duration,Price,No. Transit,Layover Time,Layover Place Code,Layover Place,website
+Norwegian,6:00 am , 9:00 am,4h 00m,$101,nonstop,0h,-,-,Momondo
+Norwegian,6:00 am , 9:00 am,4h 00m,$94,nonstop,0h,-,-,Momondo
+Ryanair,11:20 pm ," 10:50 pm
++1",25h 30m,$65,1 stop,20h 35m,WMI,Airport change WMI-WAW,Momondo
+Finnair,7:45 am , 10:50 am,4h 05m,$336,nonstop,0h,-,-,Momondo
+Scandinavian Airlines,7:00 am , 1:15 pm,7h 15m,$114,1 stop,2h 35m,CPH,Kastrup Copenhagen,Momondo
+"Finnair, Ryanair",5:05 pm , 10:35 pm,6h 30m,$150,1 stop,1h 35m,BCN,Barcelona-El Prat,Momondo
+"Lufthansa, Discover Airlines",1:40 pm , 6:20 pm,5h 40m,$309,1 stop,1h 00m,FRA,Frankfurt am Main,Momondo
+Lufthansa,1:40 pm , 6:20 pm,5h 40m,$311,1 stop,1h 00m,FRA,Frankfurt am Main,Momondo
+"Finnair, Ryanair",7:35 am , 1:15 pm,6h 40m,$207,1 stop,1h 50m,WAW,Warsaw Frederic Chopin,Momondo
+"Finnair, easyJet",4:10 pm , 10:50 pm,7h 40m,$140,1 stop,2h 50m,MXP,Milan Malpensa,Momondo
+"Finnair, Ryanair",5:05 pm , 10:00 pm,5h 55m,$211,1 stop,1h 00m,BCN,Barcelona-El Prat,Momondo
+"Finnair, Norwegian",12:00 pm , 6:30 pm,7h 30m,$173,1 stop,2h 35m,OSL,Oslo Gardermoen,Momondo
+"Finnair, Air Europa",5:05 pm , 10:45 pm,6h 40m,$175,1 stop,1h 55m,BCN,Barcelona-El Prat,Momondo
+"Finnair, SWISS",4:10 pm , 8:50 pm,5h 40m,$279,1 stop,1h 00m,GVA,Geneva Geneve-Cointrin,Momondo
+"Finnair, Ryanair",5:05 pm , 11:40 pm,7h 35m,$150,1 stop,2h 40m,BCN,Barcelona-El Prat,Momondo
+"Finnair, Vueling",5:05 pm , 10:20 pm,6h 15m,$218,1 stop,1h 25m,BCN,Barcelona-El Prat,Momondo
+"Ryanair, easyJet",10:50 pm ," 10:25 am
++1",13h 35m,$87,1 stop,8h 15m,STN,Airport change STN-LTN,Momondo
+"Finnair, British Airways",8:00 am , 2:00 pm,7h 00m,$278,1 stop,1h 30m,LHR,London Heathrow,Momondo
+"Finnair, Ryanair",5:35 pm , 11:30 pm,6h 55m,$230,1 stop,2h 10m,BER,Berlin Brandenburg,Momondo
+"Ryanair, Jet2",10:50 pm ," 9:30 am
++1",12h 40m,$92,1 stop,7h 05m,STN,London Stansted,Momondo
+"airBaltic, Norwegian",5:25 am , 12:05 pm,7h 40m,$137,2 stops,"0h 35m, 0h 55m","RIX, OSL","Riga Intl, Oslo Gardermoen",Momondo
+"Ryanair, easyJet",10:50 pm ," 9:25 am
++1",12h 35m,$96,1 stop,7h 15m,STN,Airport change STN-LTN,Momondo
+"Finnair, Wizz Air",11:35 am , 7:05 pm,8h 30m,$169,1 stop,3h 30m,WAW,Warsaw Frederic Chopin,Momondo
+British Airways,8:00 am , 2:00 pm,7h 00m,$301,1 stop,1h 30m,LHR,London Heathrow,Momondo
+"Finnair, Eurowings",7:55 am , 1:00 pm,6h 05m,$294,1 stop,1h 20m,ZRH,Zurich,Momondo
+"Finnair, Ryanair",12:00 pm , 10:05 pm,11h 05m,$139,1 stop,6h 20m,OSL,Airport change OSL-TRF,Momondo
+"Norwegian, Air Europa",12:25 pm , 6:00 pm,6h 35m,$283,1 stop,1h 20m,ALC,Alicante,Momondo
+"Ryanair, British Airways",10:50 pm ," 8:55 am
++1",12h 05m,$129,1 stop,6h 40m,STN,Airport change STN-LHR,Momondo
+"Finnair, Transavia",8:10 am , 3:45 pm,8h 35m,$213,1 stop,3h 35m,AMS,Amsterdam Schiphol,Momondo
+"Finnair, Iberia",4:40 pm , 11:59 pm,8h 19m,$213,1 stop,2h 35m,MAD,Madrid Barajas,Momondo
+"Finnair, Ryanair",9:55 am , 4:50 pm,7h 55m,$259,1 stop,3h 00m,BUD,Budapest Ferenc Liszt Intl,Momondo
+"Norwegian, Ryanair",6:15 am , 6:35 pm,13h 20m,$114,1 stop,8h 25m,PSA,Pisa Gal Galilei,Momondo
+KLM,7:00 am , 4:05 pm,10h 05m,$218,1 stop,5h 00m,AMS,Amsterdam Schiphol,Momondo
+"Finnair, easyJet",8:00 am , 2:45 pm,7h 45m,$254,1 stop,2h 55m,MXP,Milan Malpensa,Momondo
+"Finnair, Ryanair",12:05 pm , 8:40 pm,9h 35m,$198,1 stop,4h 55m,CPH,Kastrup Copenhagen,Momondo
+British Airways,8:00 am , 4:20 pm,9h 20m,$277,1 stop,3h 45m,LHR,London Heathrow,Momondo
+"airBaltic, Condor",5:25 am , 12:40 pm,8h 15m,$204,2 stops,"1h 25m, 1h 20m","RIX, FRA","Riga Intl, Frankfurt am Main",Momondo
+"Finnair, Norwegian",7:25 am , 6:30 pm,12h 05m,$161,1 stop,7h 05m,OSL,Oslo Gardermoen,Momondo
+"Finnair, Wizz Air",7:35 am , 7:05 pm,12h 30m,$157,1 stop,7h 30m,WAW,Warsaw Frederic Chopin,Momondo
+KLM,7:00 am , 3:45 pm,9h 45m,$279,1 stop,4h 45m,AMS,Amsterdam Schiphol,Momondo
+"Finnair, Norwegian",7:10 am , 5:50 pm,11h 40m,$181,1 stop,5h 45m,BGO,Bergen Flesland,Momondo
+"airBaltic, Ryanair",5:25 am , 4:25 pm,12h 00m,$132,2 stops,"0h 50m, 4h 50m","RIX, LGW-STN","Riga Intl, Airport change LGW-STN",Momondo
+"Finnair, British Airways",8:00 am , 4:20 pm,9h 20m,$245,1 stop,3h 45m,LHR,London Heathrow,Momondo
+British Airways,8:00 am , 5:45 pm,10h 45m,$264,1 stop,5h 20m,LHR,London Heathrow,Momondo
+"Finnair, easyJet",8:00 am , 5:35 pm,10h 35m,$211,1 stop,5h 00m,LHR,Airport change LHR-LGW,Momondo
+Multiple airlines,2:15 pm , 9:50 pm,8h 35m,$258,2 stops,"1h 05m, 1h 25m","TLL, LGW","Tallinn Ulemiste, London Gatwick",Momondo
+"Finnair, British Airways",8:00 am , 5:45 pm,10h 45m,$231,1 stop,5h 20m,LHR,London Heathrow,Momondo
+"Finnair, easyJet",8:10 am , 4:30 pm,9h 20m,$231,2 stops,"2h 10m, 1h 20m","AMS, NCE","Amsterdam Schiphol, Nice Côte d'Azur",Momondo
+"Finnair, easyJet",8:10 am , 4:30 pm,9h 20m,$235,2 stops,"1h 05m, 2h 25m","AMS, NCE","Amsterdam Schiphol, Nice Côte d'Azur",Momondo
+Multiple airlines,2:00 pm , 10:00 pm,9h 00m,$257,2 stops,"1h 05m, 2h 05m","VCE, BCN","Venice Marco Polo, Barcelona-El Prat",Momondo
+"KLM, Ryanair",1:55 pm , 10:00 pm,9h 05m,$250,2 stops,"1h 20m, 2h 15m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+"Finnair, Norwegian",7:25 am , 5:50 pm,11h 25m,$205,2 stops,"1h 00m, 4h 35m","OSL, BGO","Oslo Gardermoen, Bergen Flesland",Momondo
+"Ryanair, easyJet",10:50 pm ," 11:15 am
++1",14h 25m,$103,1 stop,9h 10m,STN,Airport change STN-LGW,Momondo
+"Finnair, Vueling",8:10 am , 6:05 pm,10h 55m,$228,2 stops,"3h 35m, 1h 30m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+Lufthansa,12:50 pm , 8:15 pm,8h 25m,$341,1 stop,3h 40m,MUC,Munich Franz Josef Strauss,Momondo
+airBaltic,9:20 pm ," 9:50 am
++1",14h 30m,$144,1 stop,9h 40m,RIX,Riga Intl,Momondo
+"Scandinavian Airlines, Norwegian",7:00 am , 6:30 pm,12h 30m,$186,2 stops,"4h 05m, 2h 05m","CPH, OSL","Kastrup Copenhagen, Oslo Gardermoen",Momondo
+"Finnair, Eurowings",11:25 am , 6:05 pm,7h 40m,$351,1 stop,3h 00m,BER,Berlin Brandenburg,Momondo
+"airBaltic, Scandinavian Airlines",5:25 am , 1:15 pm,8h 50m,$281,2 stops,"0h 40m, 2h 40m","RIX, CPH","Riga Intl, Kastrup Copenhagen",Momondo
+"Scandinavian Airlines, Wizz Air",7:00 am , 7:05 pm,13h 05m,$173,2 stops,"4h 05m, 2h 40m","CPH, WAW","Kastrup Copenhagen, Warsaw Frederic Chopin",Momondo
+"Ryanair, Austrian Airlines",9:05 pm ," 8:50 am
++1",13h 45m,$144,1 stop,9h 00m,VIE,Vienna Intl,Momondo
+"KLM, Vueling",1:55 pm , 9:55 pm,9h 00m,$278,2 stops,"1h 10m, 1h 40m","AMS, ALC","Amsterdam Schiphol, Alicante",Momondo
+Austrian Airlines,7:00 am , 5:05 pm,11h 05m,$292,2 stops,"2h 10m, 3h 10m","CPH, VIE","Kastrup Copenhagen, Vienna Intl",Momondo
+"Norwegian, Vueling",12:25 pm , 9:55 pm,10h 30m,$274,1 stop,5h 05m,ALC,Alicante,Momondo
+Scandinavian Airlines,11:25 am , 6:45 pm,8h 20m,$394,1 stop,3h 20m,ARN,Stockholm Arlanda,Momondo
+"Finnair, KLM",7:10 am , 4:05 pm,9h 55m,$273,2 stops,"2h 05m, 1h 05m","BGO, AMS","Bergen Flesland, Amsterdam Schiphol",Momondo
+"airBaltic, Norwegian",5:25 am , 6:30 pm,14h 05m,$136,2 stops,"0h 35m, 7h 20m","RIX, OSL","Riga Intl, Oslo Gardermoen",Momondo
+"Finnair, Ryanair",7:25 am , 10:05 pm,15h 40m,$127,1 stop,10h 50m,OSL,Airport change OSL-TRF,Momondo
+"airBaltic, easyJet",5:25 am , 5:35 pm,13h 10m,$174,2 stops,"0h 50m, 6h 05m","RIX, LGW","Riga Intl, London Gatwick",Momondo
+KLM,1:55 pm , 10:45 pm,9h 50m,$329,2 stops,"1h 20m, 3h 10m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+"CitizenPlane, Eurowings",10:40 am , 5:45 pm,8h 05m,$379,1 stop,3h 25m,HAM,Hamburg,Momondo
+"Ryanair, easyJet",10:50 pm ," 12:35 pm
++1",15h 45m,$120,1 stop,10h 35m,STN,Airport change STN-LGW,Momondo
+Lufthansa,6:10 am , 1:00 pm,7h 50m,$411,1 stop,3h 05m,MUC,Munich Franz Josef Strauss,Momondo
+"Finnair, Ryanair",7:10 am , 10:05 pm,15h 55m,$144,2 stops,"1h 55m, 7h 20m","BGO, TRF","Bergen Flesland, Oslo Sandefjord",Momondo
+"Finnair, Ryanair",7:10 am , 10:05 pm,11h 05m,$330,2 stops,NAN,"BGO, TRF",,Momondo
+"Lufthansa, Discover Airlines",6:40 am , 6:20 pm,12h 40m,$309,1 stop,8h 00m,FRA,Frankfurt am Main,Momondo
+Lufthansa,6:40 am , 6:20 pm,12h 40m,$311,1 stop,8h 00m,FRA,Frankfurt am Main,Momondo
+British Airways,8:00 am , 9:20 pm,14h 20m,$290,1 stop,8h 15m,LHR,London Heathrow,Momondo
+Lufthansa,1:40 pm , 8:15 pm,7h 35m,$469,2 stops,"1h 00m, 0h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+"Lufthansa, Condor",7:40 pm ," 8:05 am
++1",14h 25m,$256,1 stop,9h 35m,MUC,Munich Franz Josef Strauss,Momondo
+KLM,1:55 pm , 11:05 pm,10h 10m,$408,2 stops,"1h 30m, 2h 15m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$376,2 stops,"1h 05m, 3h 55m","FRA, VIE","Frankfurt am Main, Vienna Intl",Momondo
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$376,2 stops,"1h 55m, 3h 00m","FRA, VIE","Frankfurt am Main, Vienna Intl",Momondo
+Austrian Airlines,6:40 am , 5:05 pm,11h 25m,$376,2 stops,"3h 30m, 1h 30m","FRA, VIE","Frankfurt am Main, Vienna Intl",Momondo
+Lufthansa,6:10 am , 8:15 pm,15h 05m,$302,1 stop,10h 20m,MUC,Munich Franz Josef Strauss,Momondo
+Multiple airlines,5:55 pm ," 7:05 am
++1",15h 10m,$254,2 stops,"2h 55m, 6h 40m","CPH, BCN","Kastrup Copenhagen, Barcelona-El Prat",Momondo
+Lufthansa,11:25 am , 6:20 pm,7h 55m,$536,2 stops,"1h 30m, 0h 50m","ARN, FRA","Stockholm Arlanda, Frankfurt am Main",Momondo
+Austrian Airlines,7:00 am , 7:10 pm,13h 10m,$382,2 stops,"2h 10m, 5h 15m","CPH, VIE","Kastrup Copenhagen, Vienna Intl",Momondo
+"Ryanair, Iberia Express",11:20 pm ," 12:50 pm
++1",15h 30m,$241,2 stops,"6h 55m, 1h 35m","WMI, MAD","Warsaw Modlin, Madrid Barajas",Momondo
+"KLM, Ryanair",6:10 pm ," 7:05 am
++1",14h 55m,$260,2 stops,"0h 55m, 8h 25m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+"Ryanair, Lufthansa",11:20 pm ," 10:55 am
++1",13h 35m,$275,2 stops,"7h 00m, 1h 05m","WMI-WAW, MUC","Airport change WMI-WAW, Munich Franz Josef Strauss",Momondo
+"Ryanair, Iberia",10:50 pm ," 12:50 pm
++1",16h 00m,$232,2 stops,"7h 10m, 1h 55m","STN, MAD","London Stansted, Madrid Barajas",Momondo
+"Ryanair, Iberia",11:20 pm ," 12:50 pm
++1",15h 30m,$247,2 stops,"6h 55m, 1h 35m","WMI, MAD","Warsaw Modlin, Madrid Barajas",Momondo
+Air Europa,7:00 am , 6:25 pm,12h 25m,$419,2 stops,"0h 55m, 5h 00m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"4h 15m, 3h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"6h 15m, 1h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$400,2 stops,"2h 15m, 5h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Austrian Airlines,6:10 am , 5:05 pm,11h 55m,$420,2 stops,"3h 55m, 2h 05m","MUC, VIE","Munich Franz Josef Strauss, Vienna Intl",Momondo
+"KLM, Vueling",6:10 pm ," 8:05 am
++1",15h 55m,$252,2 stops,"0h 55m, 9h 30m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+Multiple airlines,11:20 pm ," 1:15 pm
++1",15h 55m,$255,2 stops,"8h 30m, 1h 20m","WMI-WAW, DUS","Airport change WMI-WAW, Duesseldorf Intl",Momondo
+Lufthansa,11:25 am , 8:15 pm,9h 50m,$528,2 stops,"3h 25m, 0h 45m","ARN, MUC","Stockholm Arlanda, Munich Franz Josef Strauss",Momondo
+Lufthansa,11:15 am , 8:15 pm,10h 00m,$534,2 stops,"0h 55m, 3h 40m","CPH, MUC","Kastrup Copenhagen, Munich Franz Josef Strauss",Momondo
+KLM,7:00 am , 3:55 pm,9h 55m,$524,2 stops,"0h 55m, 2h 30m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Air France,6:20 am , 8:20 pm,15h 00m,$364,2 stops,"6h 25m, 2h 00m","CDG, MAD","Paris Charles de Gaulle, Madrid Barajas",Momondo
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$453,2 stops,"1h 15m, 6h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:40 am , 3:15 pm,9h 35m,$548,1 stop,4h 50m,FRA,Frankfurt am Main,Momondo
+Air Europa,7:00 am , 8:20 pm,14h 20m,$419,2 stops,"2h 25m, 5h 20m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Air Europa,7:00 am , 8:20 pm,14h 20m,$419,2 stops,"0h 55m, 6h 55m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Air Europa,7:00 am , 3:55 pm,9h 55m,$558,2 stops,"0h 55m, 2h 30m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$412,2 stops,"5h 00m, 3h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+KLM,7:00 am , 4:15 pm,10h 15m,$523,2 stops,"1h 45m, 2h 55m","AMS, BCN","Amsterdam Schiphol, Barcelona-El Prat",Momondo
+KLM,7:00 am , 6:25 pm,12h 25m,$460,2 stops,"0h 55m, 5h 00m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Lufthansa,6:40 am , 1:00 pm,7h 20m,$630,2 stops,"1h 00m, 0h 40m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+Lufthansa,7:00 am , 6:20 pm,12h 20m,$511,2 stops,"2h 05m, 5h 00m","CPH, FRA","Kastrup Copenhagen, Frankfurt am Main",Momondo
+Brussels Airlines,6:40 am , 4:30 pm,10h 50m,$531,2 stops,"3h 15m, 1h 50m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$531,2 stops,"3h 15m, 2h 35m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$531,2 stops,"0h 45m, 4h 50m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$531,2 stops,"1h 25m, 4h 25m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+"airBaltic, Wizz Air",9:00 am , 7:05 pm,11h 05m,$215,2 stops,"4h 05m, 1h 20m","RIX, WAW","Riga Intl, Warsaw Frederic Chopin",Momondo
+"airBaltic, Wizz Air",9:00 am , 7:05 pm,10h 50m,$585,2 stops,NAN,"RIX, WAW",,Momondo
+Air Europa,7:00 am , 6:25 pm,12h 25m,$558,2 stops,"2h 25m, 3h 25m","AMS, MAD","Amsterdam Schiphol, Madrid Barajas",Momondo
+Scandinavian Airlines,11:25 am , 7:25 pm,9h 00m,$677,2 stops,"1h 25m, 1h 40m","ARN, OSL","Stockholm Arlanda, Oslo Gardermoen",Momondo
+Air France,6:20 am , 3:55 pm,10h 35m,$599,2 stops,"0h 50m, 3h 10m","CDG, MAD","Paris Charles de Gaulle, Madrid Barajas",Momondo
+Lufthansa,7:00 am , 8:15 pm,14h 15m,$515,2 stops,"1h 10m, 7h 40m","CPH, MUC","Kastrup Copenhagen, Munich Franz Josef Strauss",Momondo
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$512,2 stops,"1h 00m, 7h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$512,2 stops,"2h 00m, 6h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$512,2 stops,"8h 00m, 0h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+Norwegian,6:30 am , 6:45 pm,13h 15m,$542,2 stops,"2h 35m, 1h 20m","SPU, ARN","Split, Stockholm Arlanda",Momondo
+British Airways,8:00 am , 5:05 pm,10h 05m,$663,2 stops,"1h 40m, 1h 25m","LHR, MAD","London Heathrow, Madrid Barajas",Momondo
+Iberia,4:40 pm , 11:59 pm,8h 19m,$737,1 stop,2h 35m,MAD,Madrid Barajas,Momondo
+Brussels Airlines,6:40 am , 4:30 pm,10h 50m,$616,2 stops,"1h 25m, 3h 40m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+Lufthansa,6:10 am , 6:20 pm,13h 10m,$573,2 stops,"3h 15m, 4h 15m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:10 am , 3:15 pm,10h 05m,$641,2 stops,"2h 15m, 2h 05m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:10 am , 3:15 pm,10h 05m,$649,2 stops,"1h 15m, 3h 05m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,7:00 am , 8:15 pm,14h 15m,$562,2 stops,"5h 10m, 3h 40m","CPH, MUC","Kastrup Copenhagen, Munich Franz Josef Strauss",Momondo
+Scandinavian Airlines,11:15 am , 8:40 pm,10h 25m,$684,2 stops,"2h 20m, 2h 20m","CPH, GOT","Kastrup Copenhagen, Gothenburg Landvetter",Momondo
+Lufthansa,6:10 am , 3:15 pm,10h 05m,$665,2 stops,"3h 15m, 1h 05m","MUC, FRA","Munich Franz Josef Strauss, Frankfurt am Main",Momondo
+Lufthansa,6:40 am , 8:15 pm,14h 35m,$573,2 stops,"4h 00m, 4h 55m","FRA, MUC","Frankfurt am Main, Munich Franz Josef Strauss",Momondo
+"Lufthansa, Discover Airlines",6:40 am , 12:25 pm,6h 45m,$816,1 stop,2h 05m,FRA,Frankfurt am Main,Momondo
+Air France,6:20 am , 6:25 pm,13h 05m,$599,2 stops,"0h 50m, 5h 40m","CDG, MAD","Paris Charles de Gaulle, Madrid Barajas",Momondo
+Multiple airlines,11:50 pm ," 1:15 pm
++1",15h 25m,$479,3 stops,"6h 20m, 1h 10m, 1h 20m","TLL, WAW, DUS","Tallinn Ulemiste, Warsaw Frederic Chopin, Duesseldorf Intl",Momondo
+Lufthansa,6:40 am , 12:25 pm,6h 45m,$817,1 stop,2h 05m,FRA,Frankfurt am Main,Momondo
+"airBaltic, Scandinavian Airlines",5:25 am , 1:15 pm,8h 50m,$729,2 stops,"0h 40m, 2h 40m","RIX, CPH","Riga Intl, Kastrup Copenhagen",Momondo
+Brussels Airlines,6:40 am , 4:30 pm,10h 50m,$718,2 stops,"0h 45m, 4h 05m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+British Airways,8:00 am , 8:55 pm,13h 55m,$663,2 stops,"1h 40m, 5h 20m","LHR, MAD","London Heathrow, Madrid Barajas",Momondo
+Air France,6:20 am , 8:20 pm,15h 00m,$599,2 stops,"0h 50m, 7h 35m","CDG, MAD","Paris Charles de Gaulle, Madrid Barajas",Momondo
+Brussels Airlines,6:40 am , 5:10 pm,11h 30m,$718,2 stops,"4h 45m, 1h 05m","FRA, BRU","Frankfurt am Main, Brussels Bruxelles-National",Momondo
+Scandinavian Airlines,7:00 am , 8:40 pm,14h 40m,$684,2 stops,"6h 35m, 2h 20m","CPH, GOT","Kastrup Copenhagen, Gothenburg Landvetter",Momondo
+Scandinavian Airlines,7:00 am , 8:40 pm,14h 40m,$684,2 stops,"0h 40m, 8h 20m","CPH, GOT","Kastrup Copenhagen, Gothenburg Landvetter",Momondo
+Scandinavian Airlines,7:00 am , 7:25 pm,13h 25m,$740,2 stops,"4h 05m, 2h 55m","CPH, OSL","Kastrup Copenhagen, Oslo Gardermoen",Momondo
+Scandinavian Airlines,7:00 am , 6:45 pm,12h 45m,$769,2 stops,"4h 05m, 2h 05m","CPH, ARN","Kastrup Copenhagen, Stockholm Arlanda",Momondo

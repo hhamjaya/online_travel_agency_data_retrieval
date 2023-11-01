@@ -1,0 +1,359 @@
+Airline,Departure,Arrival,Duration,Price,No. Transit,Layover Time,Layover Place Code,Layover Place,Website
+Norwegian Air International Ltd,06:00,09:00,4h 00m,$110.54,Direct,0h,-,-,Booking
+"SAS, operated by Jettime A/S",07:00,13:15,7h 15m,$130.88,1 stop,['2h 35m'],['CPH'],['Copenhagen Apt'],Booking
+Ryanair,22:50,10:25,12h 35m,$119.24,1 stop,['7h 15m'],"['STN', 'LTN']","['London Stansted Apt', 'London Luton Apt']",Booking
+Ryanair,23:20,22:50,25h 30m,$77.36,1 stop,['19h 35m'],NaN,NaN,Booking
+Norwegian Air International Ltd,06:15,18:35,13h 20m,$127.70,1 stop,['2h 35m'],['CPH'],['Copenhagen Apt'],Booking
+Ryanair,22:50,11:15,13h 25m,$135.90,1 stop,['8h 10m'],"['STN', 'LGW']","['London Stansted Apt', 'London Gatwick Apt']",Booking
+Ryanair,21:05,08:50,12h 45m,$144.16,1 stop,['8h 00m'],NaN,NaN,Booking
+Ryanair,21:05,19:10,23h 05m,$93.67,1 stop,['18h 15m'],NaN,NaN,Booking
+Finnair,07:45,10:50,4h 05m,$389.48,Direct,0h,-,-,Booking
+Air Baltic,21:20,09:50,13h 30m,$153.20,1 stop,['8h 40m'],NaN,NaN,Booking
+Ryanair,22:50,12:35,14h 45m,$148.40,1 stop,['9h 35m'],"['STN', 'LGW']","['London Stansted Apt', 'London Gatwick Apt']",Booking
+Lufthansa,13:40,18:20,5h 40m,$307.05,1 stop,['1h 00m'],['FRA'],['Frankfurt International Apt'],Booking
+Ryanair,22:50,21:15,23h 25m,$108.24,1 stop,['8h 40m'],NaN,NaN,Booking
+Ryanair,22:50,19:40,21h 50m,$119.24,1 stop,['16h 30m'],['STN'],['London Stansted Apt'],Booking
+Ryanair,22:50,20:55,23h 05m,$115.11,1 stop,['17h 35m'],['STN'],['London Stansted Apt'],Booking
+Ryanair,23:20,14:25,16h 05m,$139.79,2 stops,"['5h 55m', '3h 10m']",['MAD'],['Madrid Barajas Apt'],Booking
+Ryanair,21:05,21:20,25h 15m,$100.29,2 stops,"['17h 45m', '1h 15m']",NaN,NaN,Booking
+Ryanair,22:50,17:25,19h 35m,$138.67,1 stop,['14h 20m'],"['STN', 'LGW']","['London Stansted Apt', 'London Gatwick Apt']",Booking
+Ryanair,23:20,23:50,25h 30m,$103.93,2 stops,"['5h 40m', '13h 45m']",['CRL'],['Brussels South Charleroi Airport'],Booking
+Ryanair,22:50,14:25,16h 35m,$147.17,2 stops,"['6h 10m', '3h 30m']","['STN', 'MAD']","['London Stansted Apt', 'Madrid Barajas Apt']",Booking
+Ryanair,22:50,14:00,16h 10m,$150.37,2 stops,"['8h 15m', '1h 30m']",['STN'],['London Stansted Apt'],Booking
+Air Baltic,05:25,20:40,16h 15m,$150.81,2 stops,['10h 05m'],['CPH'],['Copenhagen Apt'],Booking
+Ryanair,22:50,21:20,23h 30m,$114.43,2 stops,"['6h 55m', '10h 00m']",['STN'],['London Stansted Apt'],Booking
+Ryanair,22:50,21:20,23h 30m,$116.80,2 stops,"['5h 40m', '13h 45m']",['CRL'],['Brussels South Charleroi Airport'],Booking
+Ryanair,23:20,20:55,22h 35m,$123.90,2 stops,"['13h 30m', '3h 30m']",['TSF'],['Venice Treviso Apt'],Booking
+Ryanair,21:05,20:55,24h 50m,$116.46,2 stops,"['9h 35m', '9h 45m']",['TSF'],['Venice Treviso Apt'],Booking
+Ryanair,21:05,17:30,21h 25m,$144.24,1 stop,['16h 35m'],NaN,NaN,Booking
+Ryanair,23:20,15:35,17h 15m,$153.68,2 stops,"['5h 55m', '4h 20m']",['MAD'],['Madrid Barajas Apt'],Booking
+Air Baltic,05:25,12:40,8h 15m,$269.76,2 stops,"['1h 25m', '1h 20m']",['FRA'],['Frankfurt International Apt'],Booking
+KLM,07:00,16:05,10h 05m,$261.25,1 stop,['5h 00m'],NaN,NaN,Booking
+Ryanair,22:50,15:35,17h 45m,$161.06,2 stops,"['6h 10m', '4h 40m']","['STN', 'MAD']","['London Stansted Apt', 'Madrid Barajas Apt']",Booking
+Ryanair,23:20,20:30,22h 10m,$138.78,2 stops,"['11h 05m', '5h 00m']",['CGN'],['Cologne/Bonn K.A.Apt'],Booking
+Ryanair,23:20,19:25,21h 05m,$144.15,2 stops,"['11h 05m', '3h 55m']",['CGN'],['Cologne/Bonn K.A.Apt'],Booking
+Ryanair,23:20,23:45,25h 25m,$125.38,2 stops,"['11h 05m', '8h 10m']",['CGN'],['Cologne/Bonn K.A.Apt'],Booking
+Ryanair,21:05,23:50,27h 45m,$124.23,2 stops,"['8h 15m', '13h 10m']",['CRL'],['Brussels South Charleroi Airport'],Booking
+Air Baltic,05:25,13:15,8h 50m,$296.36,2 stops,['2h 40m'],['CPH'],['Copenhagen Apt'],Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",12:50,20:15,8h 25m,$340.16,1 stop,['3h 40m'],['MUC'],['Munich International Airport'],Booking
+Air Baltic,09:00,09:50,25h 50m,$153.20,1 stop,['21h 00m'],NaN,NaN,Booking
+Ryanair,22:50,21:20,23h 30m,$150.70,2 stops,"['6h 10m', '10h 45m']",['STN'],['London Stansted Apt'],Booking
+Ryanair,21:05,21:55,25h 50m,$144.27,2 stops,['2h 40m'],['CPH'],['Copenhagen Apt'],Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",06:10,13:00,7h 50m,$408.32,1 stop,['3h 05m'],['MUC'],['Munich International Airport'],Booking
+KLM,07:00,15:45,9h 45m,$352.50,1 stop,['3h 40m'],['MUC'],['Munich International Airport'],Booking
+"SAS, operated by Regional Jet",11:25,18:45,8h 20m,$410.50,1 stop,['3h 20m'],['ARN'],['Stockholm Arlanda Apt'],Booking
+Lufthansa,06:40,18:20,12h 40m,$307.05,1 stop,['8h 00m'],['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Xfly For Scandinavian Airlines",17:30,08:50,16h 20m,$257.49,2 stops,"['2h 25m', '8h 15m']",['ARN'],['Stockholm Arlanda Apt'],Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",06:10,20:15,15h 05m,$303.62,1 stop,['10h 20m'],['MUC'],['Munich International Airport'],Booking
+KLM,13:55,22:45,9h 50m,$380.52,2 stops,"['1h 20m', '3h 10m']",['BCN'],['Barcelona Apt'],Booking
+Lufthansa,13:40,20:15,7h 35m,$468.68,2 stops,['1h 00m'],"['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+KLM,18:10,09:10,16h 00m,$300.50,1 stop,['11h 05m'],NaN,NaN,Booking
+"Austrian Airlines, operated by Jettime A/S",07:00,19:10,13h 10m,$323.01,2 stops,"['2h 10m', '5h 15m']",['CPH'],['Copenhagen Apt'],Booking
+Lufthansa,06:40,15:15,9h 35m,$463.87,1 stop,['4h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,13:00,7h 20m,$524.56,2 stops,"['2h 10m', '5h 15m']",['CPH'],['Copenhagen Apt'],Booking
+Finnair,08:00,21:20,14h 20m,$352.90,1 stop,"['1h 20m', '3h 10m']",['BCN'],['Barcelona Apt'],Booking
+"Swiss, operated by Jettime A/S",07:00,14:20,8h 20m,$483.95,2 stops,['1h 00m'],"['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+KLM,13:55,23:05,10h 10m,$424.68,2 stops,"['1h 30m', '2h 15m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Swiss, operated by City Jet For Sas Scandinavian Airlines",11:15,19:20,9h 05m,$483.95,2 stops,['4h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+"Finnair, operated by Iberia For Finnair",16:40,08:35,16h 55m,$336.00,1 stop,['11h 05m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Lufthansa, operated by Regional Jet For Sas Scandinavian Airlines",11:25,18:20,7h 55m,$545.46,2 stops,['1h 30m'],"['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+KLM,13:55,09:10,20h 15m,$300.50,1 stop,['11h 05m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,17:05,11h 25m,$422.64,2 stops,"['1h 05m', '3h 55m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,17:05,11h 25m,$422.64,2 stops,"['1h 55m', '3h 00m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,17:05,11h 25m,$422.64,2 stops,"['3h 30m', '1h 30m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,17:05,11h 25m,$422.64,2 stops,['4h 35m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,19:40,10:55,16h 15m,$360.68,1 stop,['11h 30m'],['MUC'],['Munich International Airport'],Booking
+"SAS, operated by City Jet",11:15,11:10,24h 55m,$269.47,1 stop,"['3h 30m', '1h 30m']",['FRA'],['Frankfurt International Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,18:20,13h 10m,$406.92,2 stops,['11h 30m'],['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,18:20,13h 10m,$406.92,2 stops,"['2h 15m', '5h 15m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",06:10,18:20,13h 10m,$406.92,2 stops,"['1h 15m', '6h 15m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",06:10,18:20,13h 10m,$406.92,2 stops,"['6h 15m', '1h 15m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,08:50,21h 00m,$295.01,2 stops,"['7h 10m', '7h 45m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Regional Jet For Sas Scandinavian Airlines",11:25,20:15,9h 50m,$523.42,2 stops,['3h 25m'],"['ARN', 'MUC']","['Stockholm Arlanda Apt', 'Munich International Airport']",Booking
+"Austrian Airlines, operated by Lufthansa",06:40,19:10,13h 30m,$422.64,2 stops,"['1h 05m', '6h 00m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,19:10,13h 30m,$422.64,2 stops,"['1h 55m', '5h 05m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,19:10,13h 30m,$422.64,2 stops,"['1h 05m', '6h 00m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,19:10,13h 30m,$422.64,2 stops,"['1h 55m', '5h 05m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,19:10,13h 30m,$422.64,2 stops,"['5h 25m', '1h 35m']",['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,18:10,09:15,16h 05m,$410.37,1 stop,['11h 20m'],['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,17:05,11h 55m,$466.84,2 stops,"['3h 55m', '2h 05m']",['MUC'],['Munich International Airport'],Booking
+"British Airways, operated by Finnair",08:00,21:20,14h 20m,$453.24,1 stop,['8h 15m'],"['LHR', 'LGW']","['London Heathrow Apt', 'London Gatwick Apt']",Booking
+KLM,07:00,15:55,9h 55m,$542.61,2 stops,['11h 20m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,12:25,6h 45m,$818.45,1 stop,['2h 05m'],['FRA'],['Frankfurt International Apt'],Booking
+KLM,07:00,16:15,10h 15m,$541.97,2 stops,"['1h 45m', '2h 55m']",['BCN'],['Barcelona Apt'],Booking
+"Air Europa, operated by KLM",07:00,15:55,9h 55m,$561.10,2 stops,['2h 30m'],['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Regional Jet",17:30,09:50,17h 20m,$411.89,1 stop,['12h 35m'],['ARN'],['Stockholm Arlanda Apt'],Booking
+"Lufthansa, operated by Cityjet For Scandinavian Airlines",11:15,20:15,10h 00m,$565.29,2 stops,['3h 40m'],"['CPH', 'MUC']","['Copenhagen Apt', 'Munich International Airport']",Booking
+"Swiss, operated by Jettime A/S",07:00,14:05,8h 05m,$668.35,2 stops,['2h 30m'],['MAD'],['Madrid Barajas Apt'],Booking
+Air France,06:20,23:05,17h 45m,$379.53,2 stops,"['8h 35m', '2h 25m']","['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+Air France,17:45,11:30,18h 45m,$404.21,1 stop,['13h 35m'],['CDG'],['Paris Charles De Gaulle Apt'],Booking
+Lufthansa,13:40,09:15,20h 35m,$381.16,1 stop,['15h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+KLM,07:00,19:30,13h 30m,$476.60,2 stops,"['5h 45m', '2h 15m']",['BCN'],['Barcelona Apt'],Booking
+Lufthansa,19:40,17:10,22h 30m,$324.95,2 stops,"['10h 45m', '5h 55m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+Lufthansa,19:40,17:10,22h 30m,$324.95,2 stops,"['11h 45m', '4h 55m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+KLM,18:10,21:45,28h 35m,$300.50,1 stop,['23h 40m'],NaN,NaN,Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,08:50,27h 40m,$278.73,2 stops,"['13h 50m', '7h 45m']",['MUC'],['Munich International Airport'],Booking
+Air France,06:20,20:20,15h 00m,$442.29,2 stops,"['6h 25m', '2h 00m']","['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"Lufthansa, operated by Jettime A/S For Scandinavian Airlines",07:00,18:20,12h 20m,$513.31,2 stops,['23h 40m'],NaN,NaN,Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,19:10,14h 00m,$466.84,2 stops,"['13h 50m', '7h 45m']",['MUC'],['Munich International Airport'],Booking
+"Finnair, operated by Iberia For Finnair",16:40,12:50,21h 10m,$380.40,1 stop,['15h 20m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Brussels Airlines, operated by Lufthansa",06:40,16:30,10h 50m,$577.58,2 stops,"['3h 55m', '4h 10m']",['MUC'],['Munich International Airport'],Booking
+"Brussels Airlines, operated by Lufthansa",06:40,16:30,10h 50m,$577.58,2 stops,"['1h 25m', '3h 40m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Brussels Airlines, operated by Lufthansa",06:40,16:30,10h 50m,$577.58,2 stops,"['3h 15m', '1h 50m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",06:10,15:15,10h 05m,$612.50,2 stops,"['2h 15m', '2h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"SAS, operated by Jettime A/S",07:00,14:05,8h 05m,$731.41,2 stops,"['1h 25m', '3h 40m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,13:40,10:55,22h 15m,$381.16,1 stop,['17h 30m'],['FRA'],['Frankfurt International Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,14:20,8h 20m,$721.09,2 stops,"['1h 55m', '1h 00m']","['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+KLM,07:00,20:20,14h 20m,$481.30,2 stops,"['5h 15m', '2h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+KLM,07:00,22:45,16h 45m,$428.60,2 stops,"['8h 10m', '3h 10m']",['BCN'],['Barcelona Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",12:50,10:55,23h 05m,$374.54,1 stop,['18h 20m'],['MUC'],['Munich International Airport'],Booking
+"SAS, operated by Regional Jet",11:25,19:25,9h 00m,$687.22,2 stops,"['1h 25m', '1h 40m']","['ARN', 'OSL']","['Stockholm Arlanda Apt', 'Oslo Airport']",Booking
+Lufthansa,19:40,17:55,23h 15m,$374.54,1 stop,"['5h 15m', '2h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+KLM,07:00,18:25,12h 25m,$542.61,2 stops,['5h 00m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Brussels Airlines, operated by Lufthansa",06:40,17:10,11h 30m,$577.58,2 stops,['4h 50m'],"['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Brussels Airlines, operated by Lufthansa",06:40,17:10,11h 30m,$577.58,2 stops,"['1h 25m', '4h 25m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Brussels Airlines, operated by Lufthansa",06:40,17:10,11h 30m,$577.58,2 stops,"['3h 15m', '2h 35m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+KLM,07:00,23:05,17h 05m,$429.30,2 stops,"['8h 20m', '2h 15m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,18:20,12h 20m,$554.12,2 stops,"['2h 05m', '5h 00m']","['CPH', 'FRA']","['Copenhagen Apt', 'Frankfurt International Apt']",Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",06:10,15:15,10h 05m,$644.65,2 stops,"['1h 15m', '3h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Lufthansa, operated by Jettime A/S For Scandinavian Airlines",07:00,20:15,14h 15m,$505.26,2 stops,"['1h 10m', '7h 40m']","['CPH', 'MUC']","['Copenhagen Apt', 'Munich International Airport']",Booking
+Lufthansa,18:10,10:55,17h 45m,$475.43,1 stop,['13h 00m'],['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",18:10,08:50,15h 40m,$474.33,2 stops,"['2h 05m', '7h 15m']",['FRA'],['Frankfurt International Apt'],Booking
+"Air Europa, operated by Klm",07:00,18:25,12h 25m,$564.80,2 stops,['5h 00m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by Klm",07:00,18:25,12h 25m,$564.80,2 stops,"['2h 25m', '3h 25m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Regional Jet",11:25,19:20,8h 55m,$725.16,2 stops,"['1h 30m', '1h 40m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"SAS, operated by City Jet",11:15,20:00,9h 45m,$683.01,2 stops,['3h 20m'],"['CPH', 'MUC']","['Copenhagen Apt', 'Munich International Airport']",Booking
+"SAS, operated by City Jet",11:15,19:20,9h 05m,$721.09,2 stops,"['2h 25m', '3h 25m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Lufthansa, operated by Xfly For Scandinavian Airlines",17:30,09:15,16h 45m,$455.73,2 stops,"['1h 20m', '10h 00m']","['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+KLM,07:00,09:10,27h 10m,$352.50,1 stop,['22h 10m'],NaN,NaN,Booking
+Air Baltic,05:25,13:15,8h 50m,$740.75,2 stops,['2h 40m'],['CPH'],['Copenhagen Apt'],Booking
+"Finnair, operated by Iberia For Finnair",16:40,23:59,8h 19m,$860.23,1 stop,['2h 35m'],['MAD'],['Madrid Barajas Apt'],Booking
+Air France,06:20,23:05,17h 45m,$442.29,2 stops,['22h 10m'],NaN,NaN,Booking
+"SAS, operated by City Jet",11:15,19:20,9h 05m,$731.41,2 stops,['2h 55m'],"['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+KLM,07:00,19:30,13h 30m,$544.60,2 stops,"['1h 45m', '6h 10m']",['BCN'],['Barcelona Apt'],Booking
+Lufthansa,06:40,20:15,14h 35m,$516.61,2 stops,"['1h 00m', '7h 55m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,20:15,14h 35m,$516.61,2 stops,"['2h 00m', '6h 55m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,20:15,14h 35m,$516.61,2 stops,"['4h 00m', '4h 55m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,20:15,14h 35m,$516.61,2 stops,"['2h 00m', '6h 55m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,20:15,14h 35m,$516.61,2 stops,['8h 00m'],"['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+"SAS, operated by Regional Jet",11:25,09:50,23h 25m,$411.89,1 stop,['18h 25m'],['ARN'],['Stockholm Arlanda Apt'],Booking
+KLM,18:10,12:40,19h 30m,$428.60,2 stops,"['12h 40m', '1h 30m']",['BCN'],['Barcelona Apt'],Booking
+KLM,07:00,22:45,16h 45m,$480.60,2 stops,"['5h 45m', '5h 30m']",['BCN'],['Barcelona Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,18:20,13h 10m,$576.26,2 stops,"['12h 40m', '1h 30m']",['BCN'],['Barcelona Apt'],Booking
+"Air Europa, operated by KLM",13:55,09:40,20h 45m,$410.10,2 stops,"['3h 35m', '10h 40m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,19:40,15:15,20h 35m,$414.50,2 stops,"['9h 45m', '5h 00m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+Lufthansa,19:40,15:15,20h 35m,$414.50,2 stops,"['10h 45m', '4h 00m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+Lufthansa,19:40,15:15,20h 35m,$414.50,2 stops,"['3h 35m', '10h 40m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",13:40,08:50,20h 10m,$422.64,2 stops,"['9h 45m', '5h 00m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Austrian Airlines, operated by Lufthansa",13:40,08:50,20h 10m,$422.64,2 stops,"['10h 45m', '4h 00m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Austrian Airlines, operated by Lufthansa",13:40,08:50,20h 10m,$422.64,2 stops,"['4h 15m', '9h 30m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",13:40,08:50,20h 10m,$422.64,2 stops,"['6h 35m', '7h 15m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",13:40,08:50,20h 10m,$422.64,2 stops,"['2h 55m', '10h 50m']",['FRA'],['Frankfurt International Apt'],Booking
+"Lufthansa, operated by Lufthansa Cityline Gmbh",06:10,15:15,10h 05m,$713.17,2 stops,"['3h 15m', '1h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"SAS, operated by City Jet",11:15,20:40,10h 25m,$696.73,2 stops,"['2h 20m', '2h 20m']","['CPH', 'GOT']","['Copenhagen Apt', 'Gothenburg Landvetter.Apt']",Booking
+KLM,18:10,12:40,19h 30m,$435.70,2 stops,['13h 10m'],['BCN'],['Barcelona Apt'],Booking
+KLM,07:00,23:05,17h 05m,$481.30,2 stops,"['2h 20m', '2h 20m']","['CPH', 'GOT']","['Copenhagen Apt', 'Gothenburg Landvetter.Apt']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,08:50,21h 00m,$415.15,2 stops,"['5h 00m', '9h 55m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Jettime A/S For Scandinavian Airlines",07:00,20:15,14h 15m,$565.29,2 stops,"['5h 10m', '3h 40m']","['CPH', 'MUC']","['Copenhagen Apt', 'Munich International Airport']",Booking
+"Air Europa, operated by Klm",07:00,20:20,14h 20m,$564.80,2 stops,['6h 55m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by Klm",07:00,20:20,14h 20m,$564.80,2 stops,"['2h 25m', '5h 20m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,13:40,17:10,28h 30m,$381.16,1 stop,"['5h 10m', '3h 40m']","['CPH', 'MUC']","['Copenhagen Apt', 'Munich International Airport']",Booking
+"British Airways, operated by Finnair",08:00,17:05,10h 05m,$754.45,2 stops,"['1h 40m', '1h 25m']","['LHR', 'MAD']","['London Heathrow Apt', 'Madrid Barajas Apt']",Booking
+Lufthansa,19:40,17:10,22h 30m,$414.50,2 stops,"['9h 45m', '6h 55m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Air Europa, operated by KLM",13:55,11:35,22h 40m,$417.50,2 stops,"['3h 35m', '12h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Finnair, operated by Iberia For Finnair",16:40,14:30,22h 50m,$469.40,1 stop,['17h 00m'],['MAD'],['Madrid Barajas Apt'],Booking
+"British Airways, operated by Finnair",16:00,19:40,28h 40m,$397.35,1 stop,['23h 10m'],"['LHR', 'LGW']","['London Heathrow Apt', 'London Gatwick Apt']",Booking
+Lufthansa,13:40,15:15,26h 35m,$424.05,1 stop,['21h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+KLM,18:10,16:15,23h 05m,$428.60,2 stops,"['12h 40m', '5h 05m']",['BCN'],['Barcelona Apt'],Booking
+KLM,18:10,16:15,23h 05m,$428.60,2 stops,['23h 10m'],"['LHR', 'LGW']","['London Heathrow Apt', 'London Gatwick Apt']",Booking
+"SAS, operated by City Jet",11:15,22:45,12h 30m,$680.97,2 stops,"['4h 25m', '2h 50m']","['CPH', 'BCN']","['Copenhagen Apt', 'Barcelona Apt']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,17:30,36h 20m,$308.50,2 stops,"['13h 50m', '16h 20m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Xfly For Scandinavian Airlines",17:30,10:55,18h 25m,$513.72,2 stops,"['1h 20m', '11h 40m']","['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+KLM,07:00,23:05,17h 05m,$545.30,2 stops,"['14h 25m', '3h 15m']",['BCN'],['Barcelona Apt'],Booking
+KLM,18:10,16:15,23h 05m,$435.70,2 stops,['16h 45m'],['BCN'],['Barcelona Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",12:50,09:15,21h 25m,$465.34,2 stops,"['1h 20m', '11h 40m']","['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",12:50,09:15,21h 25m,$465.34,2 stops,"['6h 35m', '9h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+Lufthansa,18:10,17:10,24h 00m,$475.43,1 stop,['16h 45m'],['BCN'],['Barcelona Apt'],Booking
+KLM,13:55,12:40,23h 45m,$435.70,2 stops,"['4h 35m', '11h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+Lufthansa,06:40,12:40,7h 00m,"$1,212.12",1 stop,['2h 15m'],['FRA'],['Frankfurt International Apt'],Booking
+"Lufthansa, operated by Jettime A/S",07:00,15:15,9h 15m,$892.89,2 stops,"['5h 10m', '13h 10m']",['BCN'],['Barcelona Apt'],Booking
+"Air Europa, operated by Klm",07:00,23:05,17h 05m,$564.80,2 stops,"['2h 25m', '8h 05m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by Klm",07:00,23:05,17h 05m,$564.80,2 stops,['9h 40m'],['MAD'],['Madrid Barajas Apt'],Booking
+Air France,06:20,18:25,13h 05m,$690.29,2 stops,['5h 40m'],"['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",12:50,09:15,21h 25m,$478.83,2 stops,"['3h 35m', '12h 05m']","['MUC', 'FRA']","['Munich International Airport', 'Frankfurt International Apt']",Booking
+"Brussels Airlines, operated by Lufthansa",06:40,17:10,11h 30m,$764.10,2 stops,"['4h 45m', '1h 05m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Swiss, operated by Regional Jet For Sas Scandinavian Airlines",11:25,18:55,8h 30m,$962.19,2 stops,"['1h 30m', '1h 20m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"SAS, operated by Jettime A/S",07:00,15:15,9h 15m,$913.46,2 stops,"['4h 45m', '1h 05m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Air Europa, operated by KLM",13:55,15:55,27h 00m,$410.10,2 stops,"['16h 15m', '4h 20m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,15:55,27h 00m,$410.10,2 stops,"['18h 20m', '2h 20m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,18:10,15:15,22h 05m,$535.89,1 stop,"['2h 05m', '1h 50m']","['CPH', 'FRA']","['Copenhagen Apt', 'Frankfurt International Apt']",Booking
+"Air Europa, operated by KLM",13:55,15:55,27h 00m,$417.50,2 stops,"['18h 20m', '2h 20m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Swiss, operated by Regional Jet For Sas Scandinavian Airlines",11:25,19:20,8h 55m,$962.19,2 stops,"['1h 30m', '1h 40m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,08:50,27h 40m,$415.19,2 stops,"['3h 35m', '16h 55m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['1h 30m', '1h 40m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['11h 40m', '9h 55m']",['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['9h 55m', '10h 50m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['9h 05m', '11h 35m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['1h 05m', '19h 40m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['9h 55m', '10h 50m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['4h 35m', '16h 10m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['8h 00m', '12h 45m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$422.68,2 stops,"['4h 35m', '16h 10m']",['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,18:10,10:55,17h 45m,$584.08,2 stops,"['1h 30m', '10h 35m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+"British Airways, operated by Finnair",16:00,18:55,27h 55m,$465.74,1 stop,['22h 30m'],"['LHR', 'LCY']","['London Heathrow Apt', 'London City Apt']",Booking
+"Austrian Airlines, operated by Lufthansa",06:40,08:50,27h 10m,$436.15,2 stops,"['11h 15m', '9h 30m']",['FRA'],['Frankfurt International Apt'],Booking
+"Air Europa, operated by KLM",13:55,18:25,29h 30m,$410.10,2 stops,"['16h 15m', '6h 50m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,18:25,29h 30m,$410.10,2 stops,"['18h 20m', '4h 50m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,18:25,29h 30m,$410.10,2 stops,"['19h 35m', '3h 25m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,20:40,14h 40m,$696.73,2 stops,"['16h 15m', '6h 50m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,20:40,14h 40m,$696.73,2 stops,['8h 20m'],"['CPH', 'GOT']","['Copenhagen Apt', 'Gothenburg Landvetter.Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",12:50,19:55,8h 05m,"$1,204.32",1 stop,['3h 20m'],['MUC'],['Munich International Airport'],Booking
+"SAS, operated by Regional Jet",17:30,07:20,14h 50m,$695.17,2 stops,"['1h 20m', '8h 10m']","['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+"Austrian Airlines, operated by Lufthansa",13:40,17:30,28h 50m,$422.68,2 stops,"['2h 05m', '20h 10m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",13:40,17:30,28h 50m,$422.68,2 stops,"['6h 35m', '15h 50m']",['FRA'],['Frankfurt International Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,19:25,13h 25m,$750.37,2 stops,"['4h 05m', '2h 55m']","['CPH', 'OSL']","['Copenhagen Apt', 'Oslo Airport']",Booking
+Air France,06:20,20:20,15h 00m,$690.29,2 stops,['7h 35m'],"['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"SAS, operated by Jettime A/S",07:00,18:45,12h 45m,$780.17,2 stops,"['2h 05m', '20h 10m']",['FRA'],['Frankfurt International Apt'],Booking
+"SAS, operated by Jettime A/S",07:00,18:45,12h 45m,$780.17,2 stops,"['4h 05m', '2h 05m']","['CPH', 'ARN']","['Copenhagen Apt', 'Stockholm Arlanda Apt']",Booking
+"Air Europa, operated by KLM",13:55,18:25,29h 30m,$417.50,2 stops,"['3h 35m', '19h 25m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",12:50,20:00,8h 10m,"$1,222.61",1 stop,['3h 20m'],['MUC'],['Munich International Airport'],Booking
+"British Airways, operated by Finnair",08:00,20:55,13h 55m,$754.45,2 stops,"['1h 20m', '4h 55m']","['CPH', 'ARN']","['Copenhagen Apt', 'Stockholm Arlanda Apt']",Booking
+"Air Europa, operated by KLM",13:55,20:20,31h 25m,$413.80,2 stops,"['3h 35m', '19h 25m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",13:40,17:30,28h 50m,$442.69,2 stops,"['18h 05m', '4h 20m']",['FRA'],['Frankfurt International Apt'],Booking
+"Air Europa, operated by KLM",13:55,20:20,31h 25m,$417.50,2 stops,['3h 20m'],['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,17:30,29h 40m,$436.15,2 stops,"['20h 50m', '2h 45m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,13:55,8h 45m,"$1,222.61",1 stop,['3h 55m'],['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,08:50,27h 40m,$466.88,2 stops,"['7h 45m', '13h 50m']",['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,08:50,27h 40m,$466.88,2 stops,"['3h 55m', '17h 50m']",['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,08:50,21h 00m,$583.68,2 stops,"['7h 45m', '13h 50m']",['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,11:50,48h 00m,$315.98,2 stops,"['18h 15m', '23h 35m']",['MUC'],['Munich International Airport'],Booking
+Lufthansa,19:40,15:15,20h 35m,$597.71,2 stops,"['3h 55m', '17h 50m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,14:15,9h 05m,"$1,222.61",1 stop,"['18h 15m', '23h 35m']",['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Lufth Cityline",12:50,18:55,7h 05m,"$1,333.36",2 stops,['1h 05m'],"['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+"Lufthansa, operated by Lufth Cityline",06:10,14:20,9h 10m,"$1,222.61",1 stop,['4h 20m'],['MUC'],['Munich International Airport'],Booking
+Air France,06:20,15:55,10h 35m,$994.90,2 stops,['3h 10m'],"['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"Air Europa, operated by KLM",13:55,23:05,34h 10m,$413.80,2 stops,['4h 20m'],['MUC'],['Munich International Airport'],Booking
+"Air Europa, operated by KLM",13:55,23:05,34h 10m,$413.80,2 stops,['3h 10m'],"['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"Air Europa, operated by KLM",13:55,23:05,34h 10m,$413.80,2 stops,"['18h 20m', '9h 30m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Regional Jet",11:25,19:20,8h 55m,"$1,155.13",2 stops,"['1h 30m', '1h 40m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+Air France,06:20,23:05,17h 45m,$690.29,2 stops,['10h 20m'],"['CDG', 'MAD']","['Paris Charles De Gaulle Apt', 'Madrid Barajas Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",12:50,19:20,7h 30m,"$1,333.36",2 stops,"['1h 05m', '1h 05m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+Lufthansa,06:40,13:35,7h 55m,"$1,282.83",2 stops,"['1h 10m', '1h 25m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+"Lufthansa, operated by Xfly For Scandinavian Airlines",17:30,15:15,22h 45m,$587.15,2 stops,"['1h 20m', '16h 00m']","['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,17:30,36h 20m,$415.19,2 stops,"['1h 05m', '1h 05m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+"SAS, operated by Regional Jet",17:30,11:10,18h 40m,$697.29,2 stops,"['1h 10m', '1h 25m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+"SAS, operated by Regional Jet",17:30,11:10,18h 40m,$697.29,2 stops,"['11h 40m', '18h 30m']",['MUC'],['Munich International Airport'],Booking
+"SAS, operated by Regional Jet",17:30,11:10,18h 40m,$697.29,2 stops,['12h 30m'],"['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",17:30,11:10,18h 40m,$697.29,2 stops,"['3h 35m', '9h 50m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+Lufthansa,06:40,13:55,8h 15m,"$1,288.45",2 stops,['1h 40m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+Lufthansa,06:40,13:55,8h 15m,"$1,291.84",2 stops,"['1h 00m', '1h 30m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,13:35,7h 55m,"$1,351.30",2 stops,['1h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,13:35,7h 55m,"$1,351.30",2 stops,['1h 40m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+Lufthansa,06:40,16:15,10h 35m,"$1,212.12",1 stop,['5h 50m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,14:10,8h 30m,"$1,300.60",2 stops,"['1h 10m', '2h 00m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$591.27,2 stops,"['2h 05m', '15h 50m']",['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,14:15,8h 35m,"$1,291.84",2 stops,"['1h 00m', '1h 50m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,14:20,8h 40m,"$1,288.45",2 stops,['2h 05m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+Lufthansa,06:40,14:20,8h 40m,"$1,291.84",2 stops,"['1h 00m', '1h 50m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,13:40,20:50,8h 10m,"$1,351.30",2 stops,['2h 05m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+Lufthansa,13:40,20:50,8h 10m,"$1,351.30",2 stops,"['1h 00m', '1h 55m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$597.94,2 stops,['1h 55m'],['FRA'],['Frankfurt International Apt'],Booking
+"SAS, operated by Regional Jet",11:25,18:20,7h 55m,"$1,396.48",2 stops,['1h 30m'],"['ARN', 'FRA']","['Stockholm Arlanda Apt', 'Frankfurt International Apt']",Booking
+Lufthansa,06:40,14:05,8h 25m,"$1,341.14",2 stops,"['11h 05m', '6h 45m']",['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,14:05,8h 25m,"$1,341.14",2 stops,"['1h 35m', '1h 30m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Air Baltic,05:25,13:05,8h 40m,"$1,317.44",2 stops,"['1h 00m', '2h 15m']",NaN,NaN,Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$611.67,2 stops,"['12h 35m', '5h 15m']",['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$611.67,2 stops,"['1h 35m', '1h 30m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$611.67,2 stops,"['1h 00m', '2h 15m']",NaN,NaN,Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$611.67,2 stops,['17h 05m'],['FRA'],['Frankfurt International Apt'],Booking
+"Austrian Airlines, operated by Lufthansa",18:10,17:30,24h 20m,$611.67,2 stops,"['14h 35m', '3h 15m']",['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,14:20,8h 40m,"$1,341.14",2 stops,"['1h 35m', '1h 45m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,14:20,8h 40m,"$1,341.14",2 stops,"['1h 35m', '1h 45m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+"Air Europa, operated by KLM",07:00,09:40,27h 40m,$564.80,2 stops,"['10h 25m', '10h 40m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,14:05,8h 55m,"$1,333.36",2 stops,"['1h 20m', '2h 05m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+"Air Europa, operated by KLM",07:00,09:40,27h 40m,$572.20,2 stops,"['2h 25m', '18h 40m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",07:00,09:40,27h 40m,$572.20,2 stops,['20h 15m'],['MAD'],['Madrid Barajas Apt'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,17:30,36h 20m,$466.88,2 stops,"['1h 20m', '2h 05m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+Lufthansa,13:40,21:55,9h 15m,"$1,303.15",2 stops,"['2h 25m', '18h 40m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,14:20,9h 10m,"$1,333.36",2 stops,"['1h 20m', '2h 20m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+Lufthansa,06:40,15:20,9h 40m,"$1,288.45",2 stops,['3h 05m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+"Air Europa, operated by KLM",07:00,11:35,29h 35m,$572.20,2 stops,"['7h 45m', '22h 25m']",['MUC'],['Munich International Airport'],Booking
+"Air Europa, operated by KLM",07:00,11:35,29h 35m,$572.20,2 stops,"['2h 25m', '20h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",07:00,11:35,29h 35m,$572.20,2 stops,"['1h 20m', '2h 20m']","['MUC', 'ZRH']","['Munich International Airport', 'Zurich Airport']",Booking
+"Lufthansa, operated by Jettime A/S For Scandinavian Airlines",07:00,16:15,10h 15m,"$1,271.04",2 stops,"['10h 25m', '12h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,09:40,44h 45m,$421.20,2 stops,"['2h 25m', '20h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,09:40,44h 45m,$421.20,2 stops,"['16h 15m', '22h 05m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,09:40,44h 45m,$421.20,2 stops,"['18h 20m', '20h 05m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,06:40,15:45,10h 05m,"$1,288.45",2 stops,['3h 30m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+"Air Europa, operated by KLM",13:55,20:20,31h 25m,$564.80,2 stops,"['16h 15m', '8h 45m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,20:20,31h 25m,$564.80,2 stops,"['18h 20m', '6h 45m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,11:35,46h 40m,$421.20,2 stops,"['19h 35m', '20h 35m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,11:35,46h 40m,$421.20,2 stops,"['18h 20m', '6h 45m']",['MAD'],['Madrid Barajas Apt'],Booking
+"Air Europa, operated by KLM",13:55,11:35,46h 40m,$421.20,2 stops,"['18h 20m', '22h 00m']",['MAD'],['Madrid Barajas Apt'],Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,$698.47,2 stops,['18h 20m'],"['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,$698.47,2 stops,"['7h 20m', '11h 55m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,$698.47,2 stops,"['9h 25m', '9h 50m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,$698.47,2 stops,"['7h 20m', '11h 55m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+Lufthansa,18:10,04:00,10h 50m,"$1,304.58",2 stops,"['1h 25m', '4h 45m']",['FRA'],['Frankfurt International Apt'],Booking
+"Air Europa, operated by KLM",07:00,15:55,33h 55m,$564.80,2 stops,"['10h 25m', '8h 50m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,11:50,48h 00m,$436.15,2 stops,"['20h 50m', '21h 05m']",['MUC'],['Munich International Airport'],Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,343.84",2 stops,['4h 05m'],"['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,343.84",2 stops,"['1h 25m', '3h 40m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,343.84",2 stops,['4h 05m'],"['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+"Air Europa, operated by KLM",07:00,15:55,33h 55m,$572.20,2 stops,"['10h 25m', '16h 55m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,348.13",2 stops,"['3h 15m', '1h 50m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,348.13",2 stops,"['1h 25m', '3h 40m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,06:40,16:30,10h 50m,"$1,348.13",2 stops,"['3h 15m', '1h 50m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,19:40,08:05,13h 25m,"$1,289.10",1 stop,['8h 35m'],['MUC'],['Munich International Airport'],Booking
+"Lufthansa, operated by Lufth Cityline",06:10,19:55,14h 45m,"$1,204.32",1 stop,['10h 00m'],['MUC'],['Munich International Airport'],Booking
+Lufthansa,06:40,17:30,11h 50m,"$1,288.45",2 stops,"['3h 15m', '1h 50m']","['FRA', 'BRU']","['Frankfurt International Apt', 'Brussels National Airport']",Booking
+Lufthansa,06:40,17:30,11h 50m,"$1,288.45",2 stops,['10h 00m'],['MUC'],['Munich International Airport'],Booking
+Lufthansa,06:40,17:35,11h 55m,"$1,300.60",2 stops,['5h 15m'],"['FRA', 'DUS']","['Frankfurt International Apt', 'Dusseldorf International Airport']",Booking
+Lufthansa,06:40,17:35,11h 55m,"$1,300.60",2 stops,"['5h 10m', '1h 25m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+"Lufthansa, operated by Lufth Cityline",06:10,20:00,14h 50m,"$1,222.61",1 stop,['10h 00m'],['MUC'],['Munich International Airport'],Booking
+"SAS, operated by City Jet",11:15,09:50,23h 35m,$782.21,2 stops,"['5h 15m', '11h 45m']","['CPH', 'ARN']","['Copenhagen Apt', 'Stockholm Arlanda Apt']",Booking
+"Finnair, operated by Iberia For Finnair",16:40,17:25,25h 45m,$867.82,1 stop,['19h 55m'],['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,06:40,19:05,13h 25m,"$1,300.60",2 stops,"['1h 10m', '6h 55m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+Lufthansa,06:40,19:05,13h 25m,"$1,300.60",2 stops,"['5h 10m', '2h 55m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+"Air Europa, operated by KLM",07:00,23:05,41h 05m,$564.80,2 stops,"['23h 05m', '11h 30m']",['MAD'],['Madrid Barajas Apt'],Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,300.60",2 stops,"['1h 10m', '7h 10m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['6h 20m', '1h 35m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['5h 10m', '2h 55m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['1h 10m', '7h 10m']","['FRA', 'STR']","['Frankfurt International Apt', 'Stuttgart Echterdingen Apt']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['4h 50m', '3h 10m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['1h 35m', '6h 25m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,18:55,13h 15m,"$1,341.14",2 stops,"['4h 50m', '3h 10m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:45,14h 05m,"$1,289.58",2 stops,"['1h 45m', '6h 50m']","['FRA', 'NUE']","['Frankfurt International Apt', 'Nuremberg Apt']",Booking
+Lufthansa,06:40,19:45,14h 05m,"$1,289.58",2 stops,"['5h 10m', '3h 25m']","['FRA', 'NUE']","['Frankfurt International Apt', 'Nuremberg Apt']",Booking
+Lufthansa,18:10,09:25,16h 15m,"$1,295.23",1 stop,['11h 35m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['6h 20m', '1h 55m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['6h 20m', '1h 55m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['1h 35m', '6h 45m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['1h 35m', '6h 45m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['4h 50m', '3h 30m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:20,13h 40m,"$1,341.14",2 stops,"['1h 35m', '6h 45m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,19:40,12:00,17h 20m,"$1,243.91",1 stop,"['4h 50m', '3h 30m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:55,14h 15m,"$1,350.59",2 stops,"['4h 50m', '3h 30m']","['FRA', 'ZRH']","['Frankfurt International Apt', 'Zurich Airport']",Booking
+Lufthansa,06:40,19:55,14h 15m,"$1,350.59",2 stops,"['2h 00m', '6h 35m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,19:55,14h 15m,"$1,350.59",2 stops,"['4h 00m', '4h 35m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,06:40,19:55,14h 15m,"$1,350.59",2 stops,"['5h 00m', '3h 35m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",12:50,17:30,29h 40m,$792.59,2 stops,"['17h 15m', '6h 20m']",['MUC'],['Munich International Airport'],Booking
+Lufthansa,18:10,11:05,17h 55m,"$1,309.41",1 stop,"['4h 00m', '4h 35m']","['FRA', 'MUC']","['Frankfurt International Apt', 'Munich International Airport']",Booking
+Lufthansa,13:40,07:20,18h 40m,"$1,309.41",1 stop,['14h 00m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,13:40,09:25,20h 45m,"$1,309.41",1 stop,"['17h 15m', '6h 20m']",['MUC'],['Munich International Airport'],Booking
+"Austrian Airlines, operated by Lufthansa Cityline For Lufthansa",06:10,17:30,36h 20m,$792.59,2 stops,['13h 15m'],['FRA'],['Frankfurt International Apt'],Booking
+Lufthansa,18:10,14:50,21h 40m,"$1,309.41",1 stop,['17h 00m'],['FRA'],['Frankfurt International Apt'],Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,"$1,130.45",2 stops,"['3h 40m', '15h 35m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",11:25,11:10,24h 45m,"$1,130.45",2 stops,"['1h 55m', '17h 20m']","['ARN', 'CPH']","['Stockholm Arlanda Apt', 'Copenhagen Apt']",Booking
+"SAS, operated by Regional Jet",11:25,18:55,8h 30m,"$2,607.29",2 stops,"['1h 30m', '1h 20m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"SAS, operated by Jettime A/S",07:00,15:15,9h 15m,"$2,504.32",2 stops,"['2h 05m', '1h 50m']","['CPH', 'FRA']","['Copenhagen Apt', 'Frankfurt International Apt']",Booking
+"SAS, operated by Regional Jet",17:30,19:30,51h 00m,$698.47,2 stops,"['1h 30m', '1h 20m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
+"SAS, operated by Jettime A/S",07:00,16:15,10h 15m,"$2,410.55",2 stops,"['2h 05m', '2h 50m']","['CPH', 'FRA']","['Copenhagen Apt', 'Frankfurt International Apt']",Booking
+"SAS, operated by Jettime A/S",07:00,18:20,12h 20m,"$2,279.44",2 stops,"['2h 05m', '5h 00m']","['CPH', 'FRA']","['Copenhagen Apt', 'Frankfurt International Apt']",Booking
+"Swiss, operated by Jettime A/S",07:00,17:25,11h 25m,"$2,627.35",2 stops,"['1h 55m', '4h 10m']","['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Jettime A/S For Scandinavian Airlines",07:00,18:55,12h 55m,"$2,632.55",2 stops,"['1h 55m', '5h 40m']","['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Jettime A/S",07:00,19:20,13h 20m,"$2,627.35",2 stops,"['1h 55m', '6h 00m']","['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Jettime A/S",07:00,19:20,13h 20m,"$2,627.35",2 stops,['7h 10m'],"['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Xfly For Scandinavian Airlines",11:25,08:45,22h 20m,"$2,168.43",2 stops,"['1h 55m', '6h 00m']","['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Cityjet For Scandinavian Airlines",11:15,08:45,22h 30m,"$2,627.35",2 stops,['7h 10m'],"['CPH', 'ZRH']","['Copenhagen Apt', 'Zurich Airport']",Booking
+"Swiss, operated by Cityjet For Scandinavian Airlines",11:15,08:45,22h 30m,"$2,628.14",2 stops,"['4h 10m', '12h 30m']","['ARN', 'ZRH']","['Stockholm Arlanda Apt', 'Zurich Airport']",Booking
