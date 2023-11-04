@@ -34,3 +34,6 @@ Your code should be able to perform the following task to give the user the list
         - If it is not direct how long is the layover and in which city? If it has multiple stops, print all layovers.
         - Type of the aircraft where available, etc.
     - Fastest flight for the preselected data with the same details as above.
+
+## Overall feedback 
+The code displayed excellent organization, with comprehensive comments that greatly enhanced its clarity. The user interface for interaction with users is highly intuitive and user-friendly. It's evident that significant attention and effort have been invested in crafting this scientific report. Well done!
